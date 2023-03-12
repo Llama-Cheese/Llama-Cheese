@@ -3,9 +3,7 @@
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frghdrizzle&psig=AOvVaw2UAvPFVUnWw-ychOGnascY&ust=1678732660978000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLib2tKE1_0CFQAAAAAdAAAAABAD" width="40" height="40" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llama-cheese" alt="llama-cheese" /></a> </p>
-
-- 🔭 I’m currently working on [my own ChatGPT](lmao no)
+- 🔭 I’m currently working on My own ChatGPT
 
 - 🌱 I’m currently learning **Javascript**
 
