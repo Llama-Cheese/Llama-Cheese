@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahastranshu</h1>
-<h3 align="center">A oxygen consumer from India</h3>
+<h3 align="center">An oxygen consumer from India</h3>
 
 ![68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966](https://user-images.githubusercontent.com/119114162/224566056-523fecd3-e584-449b-b4a9-f2f8b9d4dbb6.gif)
 
