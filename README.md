@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahastranshu</h1>
-<h3 align="center">A oxygen consumer from India</h3>
+<h3 align="center">An oxygen consumer from India</h3>
 
 ![68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966](https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif)
 
@@ -12,11 +12,11 @@
 
 - 📝 I regularly write articles on [https://forum.aistudent.community](https://forum.aistudent.community)
 
-- 💬 Ask me about **Nothing I am a beginner 💀**
+- 💬 Ask me about **Nothing 💀**
 
 - 📫 How to reach me **sahastrasnhu2009@gmail.com**
 
-- ⚡ Fun fact **One-third of murders go unsolved in the United States.**
+- 😀 Fun fact **One-third of murders go unsolved in the United States.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
