@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Nothing 💀**
 
-- 📫 How to reach me **sahastrasnhu2009@gmail.com**
+- 📫 Reach out to me on Discord **Anonymous?#4160** 
 
 - 😀 Fun fact **One-third of murders go unsolved in the United States.**
 
