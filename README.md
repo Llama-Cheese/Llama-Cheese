@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my own ChatGPT**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Llama-Cheese?tab=repositories](https://github.com/Llama-Cheese?tab=repositories)
 
