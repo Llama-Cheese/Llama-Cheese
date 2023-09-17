@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **💀**
 
-- 📫 Reach out to me on LinkedIn **Sahastranshu Kauts** 
+- 📫 Reach out to me on LinkedIn **[Here](https://www.linkedin.com/in/sahastranshu-kauts-a91a0027a)** 
 
 - 😀 Fun fact **One-third of murders go unsolved in the United States.**
 
