@@ -6,22 +6,19 @@
 
 - 🔭 I’m currently working on **Shiksha Saathi**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [The repository tab](https://github.com/Llama-Cheese?tab=repositories)
 
 - 📝 I regularly write articles on [The AI Student Community](https://forum.aistudent.community)
 
-- 💬 Ask me about **💀**
+- 💬 Ask me about **Web development and AI**
 
-- 📫 Reach out to me on Discord **llama_cheese**
+- 📫 Reach out to me on Discord Username: **llama_cheese**
 
 - 😀 Fun fact **One-third of murders go unsolved in the United States.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p>No just don't </p>
 
-<h3 align="left">My only flex (idk if it even counts as one):</h3>
+<h3 align="left">ELO flex:</h3>
 <img src="https://www.codewars.com/users/__Anonymous__123/badges/large" alt="I believe it is a flex" width="500" height="333">
 
