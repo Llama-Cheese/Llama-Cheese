@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Shiksha Saathi**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [The repository tab](https://github.com/Llama-Cheese?tab=repositories)
 
