@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahastranshu</h1>
 <h3 align="center">A random person on the internet </h3>
 
-![68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966](https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif)
+<img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="Animated GIF" style="width: 1080px; height: auto;">
 
 
 - 🔭 I’m currently working on **Shiksha Saathi**
